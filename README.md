@@ -1,9 +1,20 @@
-## Oii 👋
-## 
-- I’m currently working in games on Unreal Engine 5
-- Estudante de jogos na PUCPR
+# 👋 Oi, eu sou a gaiakaa👋
+Estudante de jogos na PUCPR
+## 🧠 Sobre mim
+- 💻 Desenvolvedora em formação, com interesse especial em  **programação**.  
+- 🧪 Já trabalhei em projetos usando **Java**, **Python**, **Unreal Engine**, **Processing** e técnicas de **OpenGL**.
 
-[![Minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gaiakaa&show_icons=true&theme=dracula)]
+## 🛠️ Ferramentas:
+**Linguagens:**  
+Java • C# • C++ • Python • Processing 
+
+**Motores e Ferramentas:**  
+Unreal Engine • OpenTK/OpenGL • Git 
+  
+
+![Minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gaiakaa&show_icons=true&theme=dracula)
+
+⭐ *Tchauuu!*
 <!--
 **gaiakaa/gaiakaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
