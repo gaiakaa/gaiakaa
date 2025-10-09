@@ -1,4 +1,4 @@
-# 👋 Oi, eu sou a gaiakaa👋
+# Oi, eu sou a gaiakaa👋
 Estudante de jogos na PUCPR
 ## 🧠 Sobre mim
 - 💻 Desenvolvedora em formação, com interesse especial em  **programação**.  
