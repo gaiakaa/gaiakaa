@@ -1,5 +1,8 @@
 ## Hi there 👋
+- I’m currently working in games on Unreal Engine 5
+- Estudante de jogos na PUCPR
 
+[![Minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-NOME-DE-USUARIO&show_icons=true&theme=dracula)]
 <!--
 **gaiakaa/gaiakaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
