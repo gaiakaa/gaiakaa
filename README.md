@@ -12,7 +12,7 @@ Java • C# • C++ • Python • Processing
 Unreal Engine • OpenTK/OpenGL • Git 
   
 
-![Minhas Estatísticas do GitHub]([https://github-readme-stats.vercel.app/api?username=gaiakaa&show_icons=true&theme=dracula](https://github-readme-stats-sigma-five.vercel.app/api?username=gaiakaa&show_icons=true&theme=dracula))
+![Minhas Estatísticas do GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=gaiakaa&show_icons=true&theme=dracula)
 
 ⭐ *Tchauuu!*
 <!--
